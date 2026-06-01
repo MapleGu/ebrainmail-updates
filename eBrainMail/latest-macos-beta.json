@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "app": "eBrainMail",
+  "platform": "macos",
+  "channel": "beta",
+  "version": "0.1.1-beta.7",
+  "shortVersion": "0.1.1",
+  "build": "10",
+  "minimumSystemVersion": "14.0",
+  "releaseTag": "v0.1.1-beta.7",
+  "publishedAt": "2026-06-01T02:59:03Z",
+  "artifact": {
+    "fileName": "eBrainMail-0.1.1-beta.7-beta.dmg",
+    "downloadUrl": "https://github.com/MapleGu/ebrainmail-updates/releases/download/v0.1.1-beta.7/eBrainMail-0.1.1-beta.7-beta.dmg",
+    "sha256": "20c90d90889cc31207ed82b885ed890d41b790e34d4bbcf61977f9618eb4546d",
+    "sizeBytes": 116431326
+  },
+  "signature": {
+    "codesigned": true,
+    "notarized": true
+  },
+  "releaseNotesUrl": "https://github.com/MapleGu/ebrainmail-updates/releases/tag/v0.1.1-beta.7"
+}
