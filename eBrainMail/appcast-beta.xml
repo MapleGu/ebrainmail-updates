@@ -8,7 +8,15 @@
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/MapleGu/ebrainmail-updates/releases/tag/v0.1.1-beta.15</sparkle:releaseNotesLink>
+            <description><![CDATA[<div class="release-notes">
+<h2>eBrainMail 0.1.1-beta.15</h2>
+<p>这次更新改进了 eBrainMail 的自动更新体验。</p>
+<ul>
+<li>新增“检查更新”入口，可从设置页、菜单栏以及 Command+Shift+U 手动检查。</li>
+<li>启动后会初始化 Sparkle，并在距离上次检查超过间隔时自动做一次后台检查。</li>
+<li>更新包来自公开 appcast，并保留签名、公证与 Sparkle EdDSA 校验。</li>
+</ul>
+</div>]]></description>
             <enclosure
                 url="https://github.com/MapleGu/ebrainmail-updates/releases/download/v0.1.1-beta.15/eBrainMail-0.1.1-beta.15-beta.dmg"
                 length="118246281"
