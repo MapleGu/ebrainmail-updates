@@ -3,17 +3,17 @@
     <channel>
         <title>eBrainMail</title>
         <item>
-            <title>0.1.1-beta.10</title>
-            <pubDate>Mon, 01 Jun 2026 04:08:38 GMT</pubDate>
-            <sparkle:version>13</sparkle:version>
+            <title>0.1.1-beta.11</title>
+            <pubDate>Mon, 01 Jun 2026 04:19:02 GMT</pubDate>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/MapleGu/ebrainmail-updates/releases/tag/v0.1.1-beta.10</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://github.com/MapleGu/ebrainmail-updates/releases/tag/v0.1.1-beta.11</sparkle:releaseNotesLink>
             <enclosure
-                url="https://github.com/MapleGu/ebrainmail-updates/releases/download/v0.1.1-beta.10/eBrainMail-0.1.1-beta.10-beta.dmg"
-                length="117475467"
+                url="https://github.com/MapleGu/ebrainmail-updates/releases/download/v0.1.1-beta.11/eBrainMail-0.1.1-beta.11-beta.dmg"
+                length="118521161"
                 type="application/octet-stream"
-                sparkle:edSignature="Bu58E89VgRazgFJdYEt4WC6WWGHwc8gBdW7DkrAXB4J5aACdBTSJamCJ57Tahv5mjU85VuPlu9G2WID6mvqyBQ=="/>
+                sparkle:edSignature="Q6SeVmR6k0/E0KM5c1utB9IEHGc1ZLfbm7W8nKqeYJjxTUE6jKPRNJ26aZMFqPSxgcYYJMA2ZNhXkUpl2UetBA=="/>
         </item>
     </channel>
 </rss>
